@@ -159,19 +159,21 @@ Our dataset (`Crop_recommendation_with_yield.csv`) contains agricultural data wi
 
 ## 👥 Team Members
 FEKIR Abdeldjalil
+
 HADDOUD Mehdi
+
 CHERFIA Abdellah 
+
 BENMAKHLOUF Leryeme 
+
 ACHOUR Djamel Eddine
+
 HENNI Mohemmed Yassine
 
 
-## 🙏 Acknowledgments
 
-- Dataset source: [Add source if applicable]
-- Course: Artificial Intelligence 2025
-- Tools used: Python, Flask, scikit-learn, Plotly
-- Icons: Font Awesome
+
 
 
 **Project completed: May 2025**
+
